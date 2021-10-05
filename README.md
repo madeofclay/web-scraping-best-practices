@@ -1,5 +1,11 @@
-# ¿Por qué?
+Se ha polemizado mucho el último tiempo (por el bloqueo del Banco Estado y Falabella a algunas Fintech) sobre el web scraping. Se dice que esta práctica está en un área gris. Pero hacer web scraping en sí no es ilegal, aunque la manera de hacerlo puede ser molesta en algunos casos.
+
+Esta guía pretende dar algunos lineamientos a seguir al hacer web scraping y seas cuidadoso de la manera y el tipo de datos que estás extrayendo.
+
+# ¿Por qué hacer una guía?
 Nuestros datos son nuestros. Nuestro teléfono, correo, nombre. Como también nuestros datos bancarios, datos en el SII, TGR, datos que tienen las tiendas comerciales y reparticiones públicas. Muchos de estos datos no tienen estructura, están en diversos formatos y separados en diferentes fuentes.
+
+Algunos bancos están bloqueando web scrapers de algunas Fintechs, es decir, a que podamos obtener nuestros propios datos a través de esta técnica. 
 
 Lo ideal siempre será hacer uso de API's cuanto estén disponibles. Cuando no, hacer web scraping es la solución. Hay varias formas de hacerlo y, si bien en este documento no queremos tocar las tecnologías a usar, sí queremos acordar los criterios que nos parecen razonables.
 
