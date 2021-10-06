@@ -66,9 +66,9 @@ Debe haber un mandato específico de obtención de datos por parte del usuario y
 Se debe tener un mecanismo para que el usuario pueda retractarse y revocar el acceso a hacer web scraping en su nombre.
 
 ## Respetar los Términos y Condiciones de cada sitio
-Cuando haces login, estás explicitamente accediendo a los Términos y Condiciones de cada sitio. Esto es estar eplícitamente de acuerdo con sus reglas sobre web scraping si es que hubiera. Éstas reglas pueden ser que no te permiten hacer web scraping de la data dentro de ese sitio. 
+Cuando haces login, estás accediendo a los Términos y Condiciones de cada sitio. Esto es estar explícitamente de acuerdo con sus reglas sobre web scraping si es que hubiera. Éstas reglas pueden ser que no te permiten hacer web scraping de la data dentro de ese sitio. Esto puede entrar en contradicción con que al usuario no le pueden limitar el derecho de usar su navegador de preferencia y un contrato de Términos y Condiciones no puede limitar ese derecho.
 
-Debes leer con cuidado los Términos y Condiciones y su política de robots.txt y honrar esos contratos.
+Debes leer con cuidado los Términos y Condiciones y su política de robots.txt.
 
 ## No infringir GDPR
 El Reglamento General de Protección de Datos (RGPD o GDPR en inglés) norma el cómo se procesan datos de ciudadanos Europeos. Comenzó a aplicar en mayo de 2018 y es una normativa a nivel de la Unión Europea que su no cumplimiento puede tener multas hasta los 20 millones de euros.
